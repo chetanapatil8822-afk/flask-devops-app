@@ -28,7 +28,7 @@ html = """
     </style>
 </head>
 <body>
-    <div class="move">🚀 AIML DEVOPS BATCH 🚀</div>
+    <div class="move"> Chetana's Text Animation</div>
 </body>
 </html>
 """
